@@ -1,0 +1,31 @@
+
+body,html{
+    margin: 0 !important;
+    overflow:auto;
+}
+#background{
+    background-image: url(https://img5.thuthuatphanmem.vn/uploads/2021/12/17/hinh-anh-the-gioi-tu-tien_031724967.jpeg);
+    background-repeat: no-repeat,repeat;
+    background-size: cover;
+    height: 1100px; 
+    width: 100%;   
+
+}
+#full {
+    display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+#center1{
+    font-family: 'Rubik Moonrocks', cursive;
+    text-align: center;
+    color:rgb(44, 26, 42);
+    font-size: 2em;
+    
+}
+
+.center{
+    padding: 10px;
+    
+}
